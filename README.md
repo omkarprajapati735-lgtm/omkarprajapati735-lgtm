@@ -58,11 +58,10 @@ I am highly curious about how **AI is shaping the future of technology** and enj
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omkarprajapati735-lgtm&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omkarprajapati735-lgtm&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarprajapati735-lgtm&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarprajapati735-lgtm&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
-
 ---
 
 ## 🔥 GitHub Streak
