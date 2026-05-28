@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Omkar Prajapati</h1>
+<h1 align="center">Hi 👋,Omkar is Here</h1>
 
 <h3 align="center">
-🚀 Aspiring Software Engineer | 🤖 AI Enthusiast | 💻 Python Developer
+🚀 Software Engineer | 🤖 AI Enthusiast | 💻 Python Developer
 </h3>
 
 <p align="center">
